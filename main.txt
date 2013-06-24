@@ -1,5 +1,6 @@
 1、第一次添加
 2、更文件名称为main
 3、新建分支名称:branch-wj
-4、给自己的分支添加内容
-5、添加了一个测试文件,Test
+4、更改Main.java测试文件内容 - branch-java add
+5、给自己的分支添加内容 - branch-wj add
+6、添加了一个测试文件,Test -branch-wj add
